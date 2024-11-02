@@ -25,7 +25,9 @@
 }
 select {
     flex: 1;
+    border-color: transparent;
 }
 input {
     width: 100px;
+    border-color: transparent;
 }
